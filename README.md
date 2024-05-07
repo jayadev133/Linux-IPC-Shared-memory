@@ -20,8 +20,8 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 ```
-DEVELOPED BY: P.ADITYA NAGA SAI
-REGISTER NUMBER:212223110036
+DEVELOPED BY: JAYADEV PALINTI
+REGISTER NUMBER:212223240058
 ```
 ## Write a C program that illustrates two processes communicating using shared memory.
 ```
